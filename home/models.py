@@ -38,3 +38,4 @@ class HomePage(Page):
     class Meta:
         verbose_name = "Home Page"
         verbose_name_plural = "Home Pages"
+
